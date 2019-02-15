@@ -37,4 +37,4 @@ stages:
         apiEndpoint: 'https://api.cf.eu10.hana.ondemand.com'
         appName: 'address-manager'
         manifest: 'manifest.yml'
-        credentialsId: 'MOCKED_ERP_SYSTEM'
+        credentialsId: 'CF-DEPLOY'
