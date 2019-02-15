@@ -1,0 +1,4 @@
+"https://odata-mock-server-generous-gnu.cfapps.eu10.hana.ondemand.com/sap/opu/odata/sap/API_BUSINESS_PARTNER/$metadata", "hystrix-com.sap.cloud.s4hana.examples.addressmgr.commands.GetAllBusinessPartnersCommand#t=#u=-1"
+"https://odata-mock-server-generous-gnu.cfapps.eu10.hana.ondemand.com/sap/opu/odata/sap/API_BUSINESS_PARTNER/A_BusinessPartner", "hystrix-com.sap.cloud.s4hana.examples.addressmgr.commands.GetAllBusinessPartnersCommand#t=#u=-1"
+"https://odata-mock-server-generous-gnu.cfapps.eu10.hana.ondemand.com/sap/opu/odata/sap/API_BUSINESS_PARTNER/$metadata", "hystrix-com.sap.cloud.s4hana.examples.addressmgr.commands.GetSingleBusinessPartnerByIdCommand#t=#u=-1"
+"https://odata-mock-server-generous-gnu.cfapps.eu10.hana.ondemand.com/sap/opu/odata/sap/API_BUSINESS_PARTNER/A_BusinessPartner(BusinessPartner='1003764')", "hystrix-com.sap.cloud.s4hana.examples.addressmgr.commands.GetSingleBusinessPartnerByIdCommand#t=#u=-1"

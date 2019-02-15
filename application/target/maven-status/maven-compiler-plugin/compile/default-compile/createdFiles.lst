@@ -1,0 +1,9 @@
+com\sap\cloud\s4hana\examples\HelloWorldServlet.class
+com\sap\cloud\s4hana\examples\addressmgr\commands\DeleteAddressCommand.class
+com\sap\cloud\s4hana\examples\addressmgr\BusinessPartnerServlet.class
+com\sap\cloud\s4hana\examples\addressmgr\util\HttpServlet.class
+com\sap\cloud\s4hana\examples\addressmgr\commands\UpdateAddressCommand.class
+com\sap\cloud\s4hana\examples\addressmgr\commands\GetAllBusinessPartnersCommand.class
+com\sap\cloud\s4hana\examples\addressmgr\AddressServlet.class
+com\sap\cloud\s4hana\examples\addressmgr\commands\GetSingleBusinessPartnerByIdCommand.class
+com\sap\cloud\s4hana\examples\addressmgr\commands\CreateAddressCommand.class

@@ -1,0 +1,3 @@
+"ErpQueryEndpoint", "/sap/opu/odata/sap/API_BUSINESS_PARTNER", "A_BusinessPartnerAddress", "hystrix-com.sap.cloud.s4hana.examples.addressmgr.GetAddressCommand#t=#u=-1"
+"ErpQueryEndpoint", "/sap/opu/odata/sap/API_BUSINESS_PARTNER", "A_BusinessPartnerAddress", "hystrix-com.sap.cloud.s4hana.examples.addressmgr.GetAddressCommand#t=#u=-2"
+"ErpQueryEndpoint", "/sap/opu/odata/sap/API_BUSINESS_PARTNER", "A_BusinessPartnerAddress", "hystrix-com.sap.cloud.s4hana.examples.addressmgr.GetAddressCommand#t=#u=-3"

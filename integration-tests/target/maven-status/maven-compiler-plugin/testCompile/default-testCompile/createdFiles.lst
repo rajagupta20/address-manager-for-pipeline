@@ -1,0 +1,6 @@
+com\sap\cloud\s4hana\examples\addressmgr\GetAddressCommand.class
+com\sap\cloud\s4hana\examples\TestUtil.class
+com\sap\cloud\s4hana\examples\addressmgr\BusinessPartnerServletTest.class
+com\sap\cloud\s4hana\examples\addressmgr\AddressServletTest.class
+com\sap\cloud\s4hana\examples\addressmgr\TestUtil.class
+com\sap\cloud\s4hana\examples\HelloWorldServletTest.class

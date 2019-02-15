@@ -1,0 +1,7 @@
+---
+erp:
+  default: "MOCKED_ERP_SYSTEM"
+  systems:
+    - alias: "MOCKED_ERP_SYSTEM"
+      uri: "https://odata-mock-server-generous-gnu.cfapps.eu10.hana.ondemand.com/"
+
